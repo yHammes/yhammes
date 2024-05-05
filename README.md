@@ -29,11 +29,6 @@
 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="">
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<div>
+    <img align="right" src="https://media.discordapp.net/attachments/843866617041125429/1236676739548184716/mewo-omori.gif?ex=6638e077&is=66378ef7&hm=6fe7df04b3c8fec803ca42f50d2e964abb2326eba463177363a341e47ffe8883&=&width=448&height=293" height="75px" width="100px">
+</div>
