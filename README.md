@@ -31,5 +31,5 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="">
 </div>
 <div>
-    <img align="right" src="https://media.discordapp.net/attachments/843866617041125429/1236676739548184716/mewo-omori.gif?ex=6638e077&is=66378ef7&hm=6fe7df04b3c8fec803ca42f50d2e964abb2326eba463177363a341e47ffe8883&=&width=448&height=293" height="75px" width="100px">
+    <img align="right" src="https://media.discordapp.net/attachments/843866617041125429/1236708191958597663/mewo2.gif?ex=6638fdc1&is=6637ac41&hm=6567a134d91cd058390eb1d412e73d0f49d2fc7bc3bee66c283796c74532146b&=&width=444&height=289" height="75px" width="100px">
 </div>
