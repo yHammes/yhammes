@@ -31,5 +31,5 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="">
 </div>
 <div>
-    <img align="right" src="https://media.discordapp.net/attachments/843866617041125429/1236709847626420435/mewo.gif?ex=667a418c&is=6678f00c&hm=b138b821c2efd0d0ff26f3b0d50fcf1aec7c30141f3707c8112b124e8f75e8c0&=" height="75px" width="100px">
+    <img align="right" src="https://i.imgur.com/JaAAQ1d.gif" height="75px" width="100px">
 </div>
