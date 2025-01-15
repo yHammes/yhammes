@@ -32,5 +32,5 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="">
 </div>
 <div>
-    <img align="right" src="https://i.imgur.com/JaAAQ1d.gif" height="75px" width="100px">
+    <img align="right" src="https://i.imgur.com/GeyXX4x.gif" height="75px" width="100px">
 </div>
