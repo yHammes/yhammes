@@ -32,6 +32,10 @@
 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="">
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div>
     <img align="right" src="https://i.imgur.com/GeyXX4x.gif" height="124px" width="124px">
 </div>
