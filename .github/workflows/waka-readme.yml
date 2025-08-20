@@ -17,6 +17,7 @@ jobs:
           API_BASE_URL: https://wakatime.com/api 
           ### content
           SHOW_TITLE: true # optional
+          SHOW_PROFILE_VIEWS: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
           CODE_LANG: lua # optional
