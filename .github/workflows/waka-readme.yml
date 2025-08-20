@@ -17,7 +17,7 @@ jobs:
           SECTION_NAME: "Wakatime"
           SHOW_LINES_OF_CODE: true
           SHOW_TOTAL_CODE_TIME: true
-          SHOW_PROFILE_VIEWS: true
+          SHOW_PROFILE_VIEWS: false
           SHOW_LANGUAGE: true
           SHOW_OS: true
           SHOW_SHORT_INFO: true
