@@ -13,7 +13,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
-          GH_TOKEN: ${{ secrets.ALLOW_READ_WAKA }}
+          GH_TOKEN: ${{ secrets.README_PERMISIONS }}
           SECTION_NAME: "Wakatime"
           SHOW_LINES_OF_CODE: true
           SHOW_TOTAL_CODE_TIME: true
