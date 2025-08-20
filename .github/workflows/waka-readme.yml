@@ -13,7 +13,7 @@ jobs:
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.ALLOW_READ_WAKA }}
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           ### content
