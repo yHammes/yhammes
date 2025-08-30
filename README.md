@@ -11,6 +11,24 @@
 
 ##
 
+<!--START_SECTION:waka-->
+
+```lua
+From: 16 August 2023 - To: 20 August 2025
+
+Total Time: 2,110 hrs 31 mins
+
+PHP               486 hrs 16 mins >>>>>>-------------------   22.57 %
+Blade Template    483 hrs 48 mins >>>>>>-------------------   22.45 %
+Lua               482 hrs 1 min   >>>>>>-------------------   22.37 %
+Dart              234 hrs 9 mins  >>>----------------------   10.87 %
+Vue.js            184 hrs 33 mins >>-----------------------   08.57 %
+XML               46 hrs 35 mins  >------------------------   02.16 %
+Other             44 hrs 14 mins  >------------------------   02.05 %
+```
+
+<!--END_SECTION:waka-->
+
 <div>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/Dart-38B2AC?style=for-the-badge&logo=git&logoColor=white" alt="">
@@ -32,24 +50,6 @@
 
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="">
 </div>
-
-<!--START_SECTION:waka-->
-
-```lua
-From: 16 August 2023 - To: 20 August 2025
-
-Total Time: 2,110 hrs 31 mins
-
-PHP               486 hrs 16 mins >>>>>>-------------------   22.57 %
-Blade Template    483 hrs 48 mins >>>>>>-------------------   22.45 %
-Lua               482 hrs 1 min   >>>>>>-------------------   22.37 %
-Dart              234 hrs 9 mins  >>>----------------------   10.87 %
-Vue.js            184 hrs 33 mins >>-----------------------   08.57 %
-XML               46 hrs 35 mins  >------------------------   02.16 %
-Other             44 hrs 14 mins  >------------------------   02.05 %
-```
-
-<!--END_SECTION:waka-->
 
 <div>
     <img align="right" src="https://i.imgur.com/GeyXX4x.gif" height="124px" width="124px">
