@@ -21,4 +21,4 @@ jobs:
           SHOW_LANGUAGE: true
           SHOW_OS: true
           SHOW_SHORT_INFO: true
-          SHOW_DEBUG_LOGGING: true
+          DEBUG_LOGGING: true
