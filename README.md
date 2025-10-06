@@ -13,6 +13,20 @@
 
 <!--START_SECTION:waka-->
 
+```lua
+From: 16 August 2023 - To: 20 August 2025
+
+Total Time: 2,110 hrs 31 mins
+
+PHP               486 hrs 16 mins >>>>>>-------------------   22.57 %
+Blade Template    483 hrs 48 mins >>>>>>-------------------   22.45 %
+Lua               482 hrs 1 min   >>>>>>-------------------   22.37 %
+Dart              234 hrs 9 mins  >>>----------------------   10.87 %
+Vue.js            184 hrs 33 mins >>-----------------------   08.57 %
+XML               46 hrs 35 mins  >------------------------   02.16 %
+Other             44 hrs 14 mins  >------------------------   02.05 %
+```
+
 <!--END_SECTION:waka-->
 
 <div>
