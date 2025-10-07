@@ -23,9 +23,9 @@ jobs:
           SHOW_TIMEZONE: false
           SHOW_LOC_CHART: false
           SHOW_EDITORS: false
+          HOW_PROFILE_VIEWS: true
           SHOW_LINES_OF_CODE: true
           SHOW_TOTAL_CODE_TIME: true
-          SHOW_PROFILE_VIEWS: false
-          SHOW_LANGUAGE: true
-          SHOW_OS: true
+          SHOW_LANGUAGE: false
+          SHOW_OS: false
           DEBUG_LOGGING: true
