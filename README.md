@@ -37,8 +37,6 @@
     <img align="right" src="https://i.imgur.com/GeyXX4x.gif" height="124px" width="124px">
 </div>
 
-##
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C404%20hrs%2044%20mins-blue)
 
