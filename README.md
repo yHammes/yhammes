@@ -18,18 +18,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🐱‍💻 Projects: 
-Centralize.Apolo         23 hrs 48 mins      ████████████████░░░░░░░░░   62.69 % 
-Hercules                 14 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   37.29 % 
-centralize               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
- Last Updated on 07/10/2025 00:55:46 UTC
 <!--END_SECTION:waka-->
 
 
