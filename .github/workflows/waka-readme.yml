@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: "Wakatime"
+          SECTION_NAME: "waka"
           SHOW_LINES_OF_CODE: true
           SHOW_TOTAL_CODE_TIME: true
           SHOW_PROFILE_VIEWS: false
