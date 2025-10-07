@@ -21,8 +21,10 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_SHORT_INFO: false
           SHOW_TIMEZONE: false
+          SHOW_UPDATED_DATE: false
           SHOW_COMMIT: false
           SHOW_LOC_CHART: false
+          SHOW_PROJECTS: false
           SHOW_EDITORS: false
           HOW_PROFILE_VIEWS: false
           SHOW_LINES_OF_CODE: true
