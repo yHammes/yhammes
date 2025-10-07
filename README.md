@@ -11,7 +11,7 @@
 
 ##
 
-<div>
+<div style="margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/Dart-38B2AC?style=for-the-badge&logo=git&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="">
