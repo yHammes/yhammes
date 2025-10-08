@@ -9,6 +9,13 @@
         <!-- <img height="180em" src="https://github-readme-stats-mu-bice-13.vercel.app/api/top-langs/?username=yHammes&layout=compact&langs_count=8&theme=dark" /> -->
 </div>
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C417%20hrs%208%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+
+<!--END_SECTION:waka-->
+
 ##
 
 <div style="margin-bottom: 10px;">
@@ -36,11 +43,3 @@
 <div>
     <img align="right" src="https://i.imgur.com/GeyXX4x.gif" height="124px" width="124px">
 </div>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C417%20hrs%208%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
