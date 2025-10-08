@@ -9,6 +9,8 @@
         <!-- <img height="180em" src="https://github-readme-stats-mu-bice-13.vercel.app/api/top-langs/?username=yHammes&layout=compact&langs_count=8&theme=dark" /> -->
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 ##
 
 <div style="margin-bottom: 10px;">
