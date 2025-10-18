@@ -13,10 +13,6 @@
 
 ---
 
-## 🧠 About Me
-...
-
-
 ## ⚙️ Tech Stack
 
 ### Frameworks & Libraries
