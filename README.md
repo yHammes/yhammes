@@ -57,7 +57,7 @@ Vue.js            184 hrs 33 mins ██░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-##
-<p align="center">
+
+<p align="center" style="margin-top: 15px;">
   <img height="180em" src="https://github-readme-stats-mu-bice-13.vercel.app/api?username=yHammes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
