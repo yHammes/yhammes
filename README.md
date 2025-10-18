@@ -16,7 +16,6 @@
 ## 🧠 About Me
 ...
 
----
 
 ## ⚙️ Tech Stack
 
@@ -47,21 +46,9 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
----
+##
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-mu-bice-13.vercel.app/api?username=yHammes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</p>
-
-<!-- Optional second card -->
-<!-- <p align="center">
-  <img height="180em" src="https://github-readme-stats-mu-bice-13.vercel.app/api/top-langs/?username=yHammes&layout=compact&langs_count=8&theme=dark"/>
-</p> -->
-
----
-
-## ⏱️ WakaTime Stats
+## Github & Wakatime Stats
 
 <!--START_SECTION:waka-->
 
@@ -74,3 +61,7 @@ Vue.js            184 hrs 33 mins ██░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+##
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-mu-bice-13.vercel.app/api?username=yHammes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</p>
