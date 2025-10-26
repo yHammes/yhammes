@@ -60,8 +60,6 @@ Vue.js            184 hrs 33 mins ██░░░░░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats-mu-bice-13.vercel.app/api?username=yHammes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yHammes">
-    <img src="https://img.shields.io/github/followers/yHammes?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
+<div>
+    <img align="right" src="https://i.imgur.com/GeyXX4x.gif" height="124px" width="124px">
+</div>
