@@ -10,8 +10,12 @@
   Passionate about technology since a young age, I started programming by creating game servers and systems for fun, which eventually became my profession.
   
   I’m currently working as a mobile developer, using Flutter to build laboratory applications and Python for integrations with artificial intelligence solutions. <br>
+  <div>
+      <img align="right" src="https://i.imgur.com/GeyXX4x.gif" height="124px" width="124px">
+  </div>
   Before that, I worked as a web developer, creating an educational platform with Laravel and Vue.js, as well as developing systems and interfaces for online game servers as a freelancer.
 </p>
+
 
 ## ⚙️ Tech Stack
 
@@ -59,7 +63,3 @@ Vue.js            184 hrs 33 mins ██░░░░░░░░░░░░░�
 <p align="center" style="margin-top: 15px;">
   <img height="180em" src="https://github-readme-stats-mu-bice-13.vercel.app/api?username=yHammes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
-
-<div>
-    <img align="right" src="https://i.imgur.com/GeyXX4x.gif" height="124px" width="124px">
-</div>
