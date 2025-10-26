@@ -11,6 +11,15 @@
   </a>
 </p>
 
+<p>
+  Fullstack Developer, currently pursuing a degree in Software Engineering. <br>
+  Passionate about technology since a young age, I started programming by creating game servers and systems for fun, which eventually became my profession.
+  
+  I’m currently working as a mobile developer, using Flutter to build laboratory applications and Python for integrations with artificial intelligence solutions.
+  
+  Before that, I worked as a web developer, creating an educational platform with Laravel and Vue.js, as well as developing systems and interfaces for online game servers as a freelancer.
+</p>
+
 ---
 
 ## ⚙️ Tech Stack
