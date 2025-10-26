@@ -2,14 +2,8 @@
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
-<h1 align="center">Hey, I'm <span style="color:#38B2AC;">yHammes</span></h1>
+<h1 align="center" style="border-bottom: 0px;">Hey, I'm yHammes</h1>
 <h3 align="center">Fullstack & Mobile Developer</h3>
-
-<p align="center">
-  <a href="https://github.com/yHammes">
-    <img src="https://img.shields.io/github/followers/yHammes?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
 
 <p>
   Fullstack Developer, currently pursuing a degree in Software Engineering. <br>
@@ -65,4 +59,10 @@ Vue.js            184 hrs 33 mins ██░░░░░░░░░░░░░�
 
 <p align="center" style="margin-top: 15px;">
   <img height="180em" src="https://github-readme-stats-mu-bice-13.vercel.app/api?username=yHammes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yHammes">
+    <img src="https://img.shields.io/github/followers/yHammes?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
 </p>
