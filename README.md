@@ -20,11 +20,9 @@
   Before that, I worked as a web developer, creating an educational platform with Laravel and Vue.js, as well as developing systems and interfaces for online game servers as a freelancer.
 </p>
 
----
-
 ## ⚙️ Tech Stack
 
-### Frameworks & Libraries
+#### Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-38B2AC?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -33,7 +31,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### Programming Languages
+#### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -42,7 +40,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Tools & Databases
+#### Tools & Databases
 <p>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -50,8 +48,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
-
-##
 
 ## Github & Wakatime Stats
 
