@@ -57,14 +57,6 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-Dart              510 hrs 8 mins  █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-PHP               508 hrs 54 mins █████░░░░░░░░░░░░░░░░░░░░   20.33 %
-Blade Template    496 hrs 47 mins █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-Lua               488 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-Vue.js            184 hrs 33 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-```
-
 <!--END_SECTION:waka-->
 
 <p align="center" style="margin-top: 15px;">
