@@ -6,7 +6,7 @@
 <h3 align="center">Fullstack & Mobile Developer</h3>
 
 <p>
-  Fullstack Developer & Mobile Developer, currently coursing Software Engineering.
+  Fullstack Developer & Mobile Developer, currently coursing Software Engineering. <br/>
   Passionate about technology since a young age, I started programming as a self-taught developer, creating game servers and systems for fun, an experience that eventually grew into my career.
 </p>
 
