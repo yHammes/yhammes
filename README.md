@@ -2,7 +2,6 @@
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
-<h1 align="center" style="border-bottom: 0px;">Hey, I'm yHammes</h1>
 <h3 align="center">Fullstack & Mobile Developer</h3>
 
 <p>
