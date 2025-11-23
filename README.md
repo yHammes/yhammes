@@ -6,14 +6,8 @@
 <h3 align="center">Fullstack & Mobile Developer</h3>
 
 <p>
-  Fullstack Developer, currently pursuing a degree in Software Engineering. <br>
-  Passionate about technology since a young age, I started programming by creating game servers and systems for fun, which eventually became my profession.
-  
-  I’m currently working as a mobile developer, using Flutter to build laboratory applications and Python for integrations with artificial intelligence solutions. <br>
-  <div>
-      <img align="right" src="https://i.imgur.com/GeyXX4x.gif" height="124px" width="124px">
-  </div>
-  Before that, I worked as a web developer, creating an educational platform with Laravel and Vue.js, as well as developing systems and interfaces for online game servers as a freelancer.
+  Fullstack Developer & Mobile Developer, currently coursing Software Engineering.
+  Passionate about technology since a young age, I started programming as a self-taught developer, creating game servers and systems for fun, an experience that eventually grew into my career.
 </p>
 
 
