@@ -2,10 +2,10 @@
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
-<h3 align="center">Fullstack & Mobile Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p>
-  Fullstack Developer & Mobile Developer, currently coursing Software Engineering. <br/>
+  Fullstack Developer, currently coursing Software Engineering. <br/>
   Passionate about technology since a young age, I started programming as a self-taught developer, creating game servers and systems for fun, an experience that eventually grew into my career.
 </p>
 
