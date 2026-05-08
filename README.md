@@ -2,11 +2,11 @@
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p>
-  Fullstack Developer, currently coursing Software Engineering. <br/>
-  Passionate about technology since a young age, I started programming as a self-taught developer, creating game servers and systems for fun, an experience that eventually grew into my career.
+AI Software Engineer specializing in LLM integrations and currently pursuing a B.S. in Software Engineering.
+My journey began as a self-taught developer, fueled by a lifelong passion for technology that started with building game servers and custom systems. What began as a hobby has evolved into a dedicated career in software engineering.
 </p>
 
 
