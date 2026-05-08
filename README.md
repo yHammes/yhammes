@@ -53,7 +53,7 @@ Currently pursuing a B.S. in Software Engineering. Specialized in designing and 
 
 
 ## Languages
-<p>🗣️ <strong>Portuguese</strong> (Native) | <strong>English</strong> (Fluent)</p>
+<p>🗣️ <strong>Portuguese</strong> (Native) | <strong>English</strong> (Professional)</p>
 
 ## Github & Wakatime Stats
 
