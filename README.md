@@ -61,7 +61,7 @@ Currently pursuing a B.S. in Software Engineering. Specialized in designing and 
 
 ```txt
 Lua                 1,726 hrs 47 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
-Python              1,121 hrs 43 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+Python              1,122 hrs 1 min       ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
 PHP                 929 hrs 8 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
 Blade Template      857 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
 Dart                714 hrs 16 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
