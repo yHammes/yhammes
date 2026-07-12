@@ -60,11 +60,11 @@ Currently pursuing a B.S. in Software Engineering. Specialized in designing and 
 <!--START_SECTION:waka-->
 
 ```txt
-Lua                        1,726 hrs 47 mins     ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
-Python                     1,212 hrs 27 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
-PHP                        929 hrs 8 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Blade Template             857 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-Dart                       714 hrs 16 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+Lua                        1,726 hrs 47 mins     ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+Python                     1,212 hrs 48 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
+PHP                        929 hrs 8 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+Blade Template             857 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Dart                       714 hrs 16 mins       ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
 ```
 
 <!--END_SECTION:waka-->
